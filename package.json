@@ -1,0 +1,23 @@
+{
+  "name": "module_2_7_graph",
+  "version": "1.0.0",
+  "description": "Practica de Modulo 2: Grafos",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arigovea/module_2_7_graph.git"
+  },
+  "keywords": [],
+  "author": "Luz Ariadna Gutierrez Govea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arigovea/module_2_7_graph/issues"
+  },
+  "homepage": "https://github.com/arigovea/module_2_7_graph#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
